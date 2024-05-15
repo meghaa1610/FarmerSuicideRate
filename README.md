@@ -28,6 +28,6 @@ states the difficulties in finding the reason behind farmer suicides using publi
 - Reading the csv and creating dataframe
 - graphing
 
-#Authors
+# Author
 Meghaa Sathish Kumar
   
